@@ -1,0 +1,14 @@
+D:\Apprenticeship_C#\LoopingExercise\LoopingExercise\bin\Debug\net9.0\LoopingExercise.exe
+D:\Apprenticeship_C#\LoopingExercise\LoopingExercise\bin\Debug\net9.0\LoopingExercise.deps.json
+D:\Apprenticeship_C#\LoopingExercise\LoopingExercise\bin\Debug\net9.0\LoopingExercise.runtimeconfig.json
+D:\Apprenticeship_C#\LoopingExercise\LoopingExercise\bin\Debug\net9.0\LoopingExercise.dll
+D:\Apprenticeship_C#\LoopingExercise\LoopingExercise\bin\Debug\net9.0\LoopingExercise.pdb
+D:\Apprenticeship_C#\LoopingExercise\LoopingExercise\obj\Debug\net9.0\LoopingExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apprenticeship_C#\LoopingExercise\LoopingExercise\obj\Debug\net9.0\LoopingExercise.AssemblyInfoInputs.cache
+D:\Apprenticeship_C#\LoopingExercise\LoopingExercise\obj\Debug\net9.0\LoopingExercise.AssemblyInfo.cs
+D:\Apprenticeship_C#\LoopingExercise\LoopingExercise\obj\Debug\net9.0\LoopingExercise.csproj.CoreCompileInputs.cache
+D:\Apprenticeship_C#\LoopingExercise\LoopingExercise\obj\Debug\net9.0\LoopingExercise.dll
+D:\Apprenticeship_C#\LoopingExercise\LoopingExercise\obj\Debug\net9.0\refint\LoopingExercise.dll
+D:\Apprenticeship_C#\LoopingExercise\LoopingExercise\obj\Debug\net9.0\LoopingExercise.pdb
+D:\Apprenticeship_C#\LoopingExercise\LoopingExercise\obj\Debug\net9.0\LoopingExercise.genruntimeconfig.cache
+D:\Apprenticeship_C#\LoopingExercise\LoopingExercise\obj\Debug\net9.0\ref\LoopingExercise.dll

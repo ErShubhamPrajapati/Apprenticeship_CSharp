@@ -1,0 +1,14 @@
+D:\Apprenticeship_C#\C_sharp2\C_sharp2\bin\Debug\net9.0\C_sharp2.exe
+D:\Apprenticeship_C#\C_sharp2\C_sharp2\bin\Debug\net9.0\C_sharp2.deps.json
+D:\Apprenticeship_C#\C_sharp2\C_sharp2\bin\Debug\net9.0\C_sharp2.runtimeconfig.json
+D:\Apprenticeship_C#\C_sharp2\C_sharp2\bin\Debug\net9.0\C_sharp2.dll
+D:\Apprenticeship_C#\C_sharp2\C_sharp2\bin\Debug\net9.0\C_sharp2.pdb
+D:\Apprenticeship_C#\C_sharp2\C_sharp2\obj\Debug\net9.0\C_sharp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apprenticeship_C#\C_sharp2\C_sharp2\obj\Debug\net9.0\C_sharp2.AssemblyInfoInputs.cache
+D:\Apprenticeship_C#\C_sharp2\C_sharp2\obj\Debug\net9.0\C_sharp2.AssemblyInfo.cs
+D:\Apprenticeship_C#\C_sharp2\C_sharp2\obj\Debug\net9.0\C_sharp2.csproj.CoreCompileInputs.cache
+D:\Apprenticeship_C#\C_sharp2\C_sharp2\obj\Debug\net9.0\C_sharp2.dll
+D:\Apprenticeship_C#\C_sharp2\C_sharp2\obj\Debug\net9.0\refint\C_sharp2.dll
+D:\Apprenticeship_C#\C_sharp2\C_sharp2\obj\Debug\net9.0\C_sharp2.pdb
+D:\Apprenticeship_C#\C_sharp2\C_sharp2\obj\Debug\net9.0\C_sharp2.genruntimeconfig.cache
+D:\Apprenticeship_C#\C_sharp2\C_sharp2\obj\Debug\net9.0\ref\C_sharp2.dll

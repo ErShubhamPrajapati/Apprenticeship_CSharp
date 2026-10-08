@@ -1,0 +1,14 @@
+D:\Apprenticeship_C#\LoopingPatternPractice\LoopingPatternPractice\bin\Debug\net9.0\LoopingPatternPractice.exe
+D:\Apprenticeship_C#\LoopingPatternPractice\LoopingPatternPractice\bin\Debug\net9.0\LoopingPatternPractice.deps.json
+D:\Apprenticeship_C#\LoopingPatternPractice\LoopingPatternPractice\bin\Debug\net9.0\LoopingPatternPractice.runtimeconfig.json
+D:\Apprenticeship_C#\LoopingPatternPractice\LoopingPatternPractice\bin\Debug\net9.0\LoopingPatternPractice.dll
+D:\Apprenticeship_C#\LoopingPatternPractice\LoopingPatternPractice\bin\Debug\net9.0\LoopingPatternPractice.pdb
+D:\Apprenticeship_C#\LoopingPatternPractice\LoopingPatternPractice\obj\Debug\net9.0\LoopingPatternPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apprenticeship_C#\LoopingPatternPractice\LoopingPatternPractice\obj\Debug\net9.0\LoopingPatternPractice.AssemblyInfoInputs.cache
+D:\Apprenticeship_C#\LoopingPatternPractice\LoopingPatternPractice\obj\Debug\net9.0\LoopingPatternPractice.AssemblyInfo.cs
+D:\Apprenticeship_C#\LoopingPatternPractice\LoopingPatternPractice\obj\Debug\net9.0\LoopingPatternPractice.csproj.CoreCompileInputs.cache
+D:\Apprenticeship_C#\LoopingPatternPractice\LoopingPatternPractice\obj\Debug\net9.0\LoopingPatternPractice.dll
+D:\Apprenticeship_C#\LoopingPatternPractice\LoopingPatternPractice\obj\Debug\net9.0\refint\LoopingPatternPractice.dll
+D:\Apprenticeship_C#\LoopingPatternPractice\LoopingPatternPractice\obj\Debug\net9.0\LoopingPatternPractice.pdb
+D:\Apprenticeship_C#\LoopingPatternPractice\LoopingPatternPractice\obj\Debug\net9.0\LoopingPatternPractice.genruntimeconfig.cache
+D:\Apprenticeship_C#\LoopingPatternPractice\LoopingPatternPractice\obj\Debug\net9.0\ref\LoopingPatternPractice.dll

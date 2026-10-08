@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Apprenticeship_C#\\NestedLoopPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D349AEF-9528-4E16-96EF-F60C6F4CFBE7}|NestedLoopPattern\\NestedLoopPattern.csproj|d:\\apprenticeship_c#\\nestedlooppattern\\nestedlooppattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D349AEF-9528-4E16-96EF-F60C6F4CFBE7}|NestedLoopPattern\\NestedLoopPattern.csproj|solutionrelative:nestedlooppattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Apprenticeship_C#\\NestedLoopPattern\\NestedLoopPattern\\Program.cs",
+              "RelativeDocumentMoniker": "NestedLoopPattern\\Program.cs",
+              "ToolTip": "D:\\Apprenticeship_C#\\NestedLoopPattern\\NestedLoopPattern\\Program.cs",
+              "RelativeToolTip": "NestedLoopPattern\\Program.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAG4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T07:42:07.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

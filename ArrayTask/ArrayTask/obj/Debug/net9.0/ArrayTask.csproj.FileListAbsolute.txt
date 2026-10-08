@@ -1,0 +1,14 @@
+D:\Apprenticeship_C#\ArrayTask\ArrayTask\bin\Debug\net9.0\ArrayTask.exe
+D:\Apprenticeship_C#\ArrayTask\ArrayTask\bin\Debug\net9.0\ArrayTask.deps.json
+D:\Apprenticeship_C#\ArrayTask\ArrayTask\bin\Debug\net9.0\ArrayTask.runtimeconfig.json
+D:\Apprenticeship_C#\ArrayTask\ArrayTask\bin\Debug\net9.0\ArrayTask.dll
+D:\Apprenticeship_C#\ArrayTask\ArrayTask\bin\Debug\net9.0\ArrayTask.pdb
+D:\Apprenticeship_C#\ArrayTask\ArrayTask\obj\Debug\net9.0\ArrayTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apprenticeship_C#\ArrayTask\ArrayTask\obj\Debug\net9.0\ArrayTask.AssemblyInfoInputs.cache
+D:\Apprenticeship_C#\ArrayTask\ArrayTask\obj\Debug\net9.0\ArrayTask.AssemblyInfo.cs
+D:\Apprenticeship_C#\ArrayTask\ArrayTask\obj\Debug\net9.0\ArrayTask.csproj.CoreCompileInputs.cache
+D:\Apprenticeship_C#\ArrayTask\ArrayTask\obj\Debug\net9.0\ArrayTask.dll
+D:\Apprenticeship_C#\ArrayTask\ArrayTask\obj\Debug\net9.0\refint\ArrayTask.dll
+D:\Apprenticeship_C#\ArrayTask\ArrayTask\obj\Debug\net9.0\ArrayTask.pdb
+D:\Apprenticeship_C#\ArrayTask\ArrayTask\obj\Debug\net9.0\ArrayTask.genruntimeconfig.cache
+D:\Apprenticeship_C#\ArrayTask\ArrayTask\obj\Debug\net9.0\ref\ArrayTask.dll

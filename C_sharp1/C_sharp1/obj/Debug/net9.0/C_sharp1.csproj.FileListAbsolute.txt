@@ -1,0 +1,14 @@
+D:\Apprenticeship_C#\C_sharp1\C_sharp1\bin\Debug\net9.0\C_sharp1.exe
+D:\Apprenticeship_C#\C_sharp1\C_sharp1\bin\Debug\net9.0\C_sharp1.deps.json
+D:\Apprenticeship_C#\C_sharp1\C_sharp1\bin\Debug\net9.0\C_sharp1.runtimeconfig.json
+D:\Apprenticeship_C#\C_sharp1\C_sharp1\bin\Debug\net9.0\C_sharp1.dll
+D:\Apprenticeship_C#\C_sharp1\C_sharp1\bin\Debug\net9.0\C_sharp1.pdb
+D:\Apprenticeship_C#\C_sharp1\C_sharp1\obj\Debug\net9.0\C_sharp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apprenticeship_C#\C_sharp1\C_sharp1\obj\Debug\net9.0\C_sharp1.AssemblyInfoInputs.cache
+D:\Apprenticeship_C#\C_sharp1\C_sharp1\obj\Debug\net9.0\C_sharp1.AssemblyInfo.cs
+D:\Apprenticeship_C#\C_sharp1\C_sharp1\obj\Debug\net9.0\C_sharp1.csproj.CoreCompileInputs.cache
+D:\Apprenticeship_C#\C_sharp1\C_sharp1\obj\Debug\net9.0\C_sharp1.dll
+D:\Apprenticeship_C#\C_sharp1\C_sharp1\obj\Debug\net9.0\refint\C_sharp1.dll
+D:\Apprenticeship_C#\C_sharp1\C_sharp1\obj\Debug\net9.0\C_sharp1.pdb
+D:\Apprenticeship_C#\C_sharp1\C_sharp1\obj\Debug\net9.0\C_sharp1.genruntimeconfig.cache
+D:\Apprenticeship_C#\C_sharp1\C_sharp1\obj\Debug\net9.0\ref\C_sharp1.dll

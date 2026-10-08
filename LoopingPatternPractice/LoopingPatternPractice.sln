@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37628.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopingPatternPractice", "LoopingPatternPractice\LoopingPatternPractice.csproj", "{BB4492DB-E80C-45BF-A28C-00A8188B9257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB4492DB-E80C-45BF-A28C-00A8188B9257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB4492DB-E80C-45BF-A28C-00A8188B9257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB4492DB-E80C-45BF-A28C-00A8188B9257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB4492DB-E80C-45BF-A28C-00A8188B9257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ADB7A1C-7565-4752-BECE-9795D8F636A9}
+	EndGlobalSection
+EndGlobal

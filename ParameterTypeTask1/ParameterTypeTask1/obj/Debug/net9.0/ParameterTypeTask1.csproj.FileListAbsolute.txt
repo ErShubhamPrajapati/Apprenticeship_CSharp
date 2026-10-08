@@ -1,0 +1,14 @@
+D:\Apprenticeship_C#\ParameterTypeTask1\ParameterTypeTask1\bin\Debug\net9.0\ParameterTypeTask1.exe
+D:\Apprenticeship_C#\ParameterTypeTask1\ParameterTypeTask1\bin\Debug\net9.0\ParameterTypeTask1.deps.json
+D:\Apprenticeship_C#\ParameterTypeTask1\ParameterTypeTask1\bin\Debug\net9.0\ParameterTypeTask1.runtimeconfig.json
+D:\Apprenticeship_C#\ParameterTypeTask1\ParameterTypeTask1\bin\Debug\net9.0\ParameterTypeTask1.dll
+D:\Apprenticeship_C#\ParameterTypeTask1\ParameterTypeTask1\bin\Debug\net9.0\ParameterTypeTask1.pdb
+D:\Apprenticeship_C#\ParameterTypeTask1\ParameterTypeTask1\obj\Debug\net9.0\ParameterTypeTask1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apprenticeship_C#\ParameterTypeTask1\ParameterTypeTask1\obj\Debug\net9.0\ParameterTypeTask1.AssemblyInfoInputs.cache
+D:\Apprenticeship_C#\ParameterTypeTask1\ParameterTypeTask1\obj\Debug\net9.0\ParameterTypeTask1.AssemblyInfo.cs
+D:\Apprenticeship_C#\ParameterTypeTask1\ParameterTypeTask1\obj\Debug\net9.0\ParameterTypeTask1.csproj.CoreCompileInputs.cache
+D:\Apprenticeship_C#\ParameterTypeTask1\ParameterTypeTask1\obj\Debug\net9.0\ParameterTypeTask1.dll
+D:\Apprenticeship_C#\ParameterTypeTask1\ParameterTypeTask1\obj\Debug\net9.0\refint\ParameterTypeTask1.dll
+D:\Apprenticeship_C#\ParameterTypeTask1\ParameterTypeTask1\obj\Debug\net9.0\ParameterTypeTask1.pdb
+D:\Apprenticeship_C#\ParameterTypeTask1\ParameterTypeTask1\obj\Debug\net9.0\ParameterTypeTask1.genruntimeconfig.cache
+D:\Apprenticeship_C#\ParameterTypeTask1\ParameterTypeTask1\obj\Debug\net9.0\ref\ParameterTypeTask1.dll

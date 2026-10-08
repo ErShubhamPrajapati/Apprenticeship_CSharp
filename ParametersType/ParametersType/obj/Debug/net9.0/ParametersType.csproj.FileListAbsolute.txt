@@ -1,0 +1,14 @@
+D:\Apprenticeship_C#\ParametersType\ParametersType\bin\Debug\net9.0\ParametersType.exe
+D:\Apprenticeship_C#\ParametersType\ParametersType\bin\Debug\net9.0\ParametersType.deps.json
+D:\Apprenticeship_C#\ParametersType\ParametersType\bin\Debug\net9.0\ParametersType.runtimeconfig.json
+D:\Apprenticeship_C#\ParametersType\ParametersType\bin\Debug\net9.0\ParametersType.dll
+D:\Apprenticeship_C#\ParametersType\ParametersType\bin\Debug\net9.0\ParametersType.pdb
+D:\Apprenticeship_C#\ParametersType\ParametersType\obj\Debug\net9.0\ParametersType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apprenticeship_C#\ParametersType\ParametersType\obj\Debug\net9.0\ParametersType.AssemblyInfoInputs.cache
+D:\Apprenticeship_C#\ParametersType\ParametersType\obj\Debug\net9.0\ParametersType.AssemblyInfo.cs
+D:\Apprenticeship_C#\ParametersType\ParametersType\obj\Debug\net9.0\ParametersType.csproj.CoreCompileInputs.cache
+D:\Apprenticeship_C#\ParametersType\ParametersType\obj\Debug\net9.0\ParametersType.dll
+D:\Apprenticeship_C#\ParametersType\ParametersType\obj\Debug\net9.0\refint\ParametersType.dll
+D:\Apprenticeship_C#\ParametersType\ParametersType\obj\Debug\net9.0\ParametersType.pdb
+D:\Apprenticeship_C#\ParametersType\ParametersType\obj\Debug\net9.0\ParametersType.genruntimeconfig.cache
+D:\Apprenticeship_C#\ParametersType\ParametersType\obj\Debug\net9.0\ref\ParametersType.dll

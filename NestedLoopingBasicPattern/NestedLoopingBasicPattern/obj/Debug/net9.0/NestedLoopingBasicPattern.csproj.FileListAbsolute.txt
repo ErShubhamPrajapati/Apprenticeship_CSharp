@@ -1,0 +1,14 @@
+D:\Apprenticeship_C#\NestedLoopingBasicPattern\NestedLoopingBasicPattern\bin\Debug\net9.0\NestedLoopingBasicPattern.exe
+D:\Apprenticeship_C#\NestedLoopingBasicPattern\NestedLoopingBasicPattern\bin\Debug\net9.0\NestedLoopingBasicPattern.deps.json
+D:\Apprenticeship_C#\NestedLoopingBasicPattern\NestedLoopingBasicPattern\bin\Debug\net9.0\NestedLoopingBasicPattern.runtimeconfig.json
+D:\Apprenticeship_C#\NestedLoopingBasicPattern\NestedLoopingBasicPattern\bin\Debug\net9.0\NestedLoopingBasicPattern.dll
+D:\Apprenticeship_C#\NestedLoopingBasicPattern\NestedLoopingBasicPattern\bin\Debug\net9.0\NestedLoopingBasicPattern.pdb
+D:\Apprenticeship_C#\NestedLoopingBasicPattern\NestedLoopingBasicPattern\obj\Debug\net9.0\NestedLoopingBasicPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apprenticeship_C#\NestedLoopingBasicPattern\NestedLoopingBasicPattern\obj\Debug\net9.0\NestedLoopingBasicPattern.AssemblyInfoInputs.cache
+D:\Apprenticeship_C#\NestedLoopingBasicPattern\NestedLoopingBasicPattern\obj\Debug\net9.0\NestedLoopingBasicPattern.AssemblyInfo.cs
+D:\Apprenticeship_C#\NestedLoopingBasicPattern\NestedLoopingBasicPattern\obj\Debug\net9.0\NestedLoopingBasicPattern.csproj.CoreCompileInputs.cache
+D:\Apprenticeship_C#\NestedLoopingBasicPattern\NestedLoopingBasicPattern\obj\Debug\net9.0\NestedLoopingBasicPattern.dll
+D:\Apprenticeship_C#\NestedLoopingBasicPattern\NestedLoopingBasicPattern\obj\Debug\net9.0\refint\NestedLoopingBasicPattern.dll
+D:\Apprenticeship_C#\NestedLoopingBasicPattern\NestedLoopingBasicPattern\obj\Debug\net9.0\NestedLoopingBasicPattern.pdb
+D:\Apprenticeship_C#\NestedLoopingBasicPattern\NestedLoopingBasicPattern\obj\Debug\net9.0\NestedLoopingBasicPattern.genruntimeconfig.cache
+D:\Apprenticeship_C#\NestedLoopingBasicPattern\NestedLoopingBasicPattern\obj\Debug\net9.0\ref\NestedLoopingBasicPattern.dll

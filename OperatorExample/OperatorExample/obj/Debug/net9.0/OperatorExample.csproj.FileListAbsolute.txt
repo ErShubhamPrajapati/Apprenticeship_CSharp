@@ -1,0 +1,14 @@
+D:\Apprenticeship_C#\OperatorExample\OperatorExample\bin\Debug\net9.0\OperatorExample.exe
+D:\Apprenticeship_C#\OperatorExample\OperatorExample\bin\Debug\net9.0\OperatorExample.deps.json
+D:\Apprenticeship_C#\OperatorExample\OperatorExample\bin\Debug\net9.0\OperatorExample.runtimeconfig.json
+D:\Apprenticeship_C#\OperatorExample\OperatorExample\bin\Debug\net9.0\OperatorExample.dll
+D:\Apprenticeship_C#\OperatorExample\OperatorExample\bin\Debug\net9.0\OperatorExample.pdb
+D:\Apprenticeship_C#\OperatorExample\OperatorExample\obj\Debug\net9.0\OperatorExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apprenticeship_C#\OperatorExample\OperatorExample\obj\Debug\net9.0\OperatorExample.AssemblyInfoInputs.cache
+D:\Apprenticeship_C#\OperatorExample\OperatorExample\obj\Debug\net9.0\OperatorExample.AssemblyInfo.cs
+D:\Apprenticeship_C#\OperatorExample\OperatorExample\obj\Debug\net9.0\OperatorExample.csproj.CoreCompileInputs.cache
+D:\Apprenticeship_C#\OperatorExample\OperatorExample\obj\Debug\net9.0\OperatorExample.dll
+D:\Apprenticeship_C#\OperatorExample\OperatorExample\obj\Debug\net9.0\refint\OperatorExample.dll
+D:\Apprenticeship_C#\OperatorExample\OperatorExample\obj\Debug\net9.0\OperatorExample.pdb
+D:\Apprenticeship_C#\OperatorExample\OperatorExample\obj\Debug\net9.0\OperatorExample.genruntimeconfig.cache
+D:\Apprenticeship_C#\OperatorExample\OperatorExample\obj\Debug\net9.0\ref\OperatorExample.dll
