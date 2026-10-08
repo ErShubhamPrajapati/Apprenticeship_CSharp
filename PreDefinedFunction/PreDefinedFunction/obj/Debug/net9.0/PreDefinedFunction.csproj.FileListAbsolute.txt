@@ -1,0 +1,15 @@
+D:\Apprenticeship_C#\PreDefinedFunction\PreDefinedFunction\bin\Debug\net9.0\PreDefinedFunction.exe
+D:\Apprenticeship_C#\PreDefinedFunction\PreDefinedFunction\bin\Debug\net9.0\PreDefinedFunction.deps.json
+D:\Apprenticeship_C#\PreDefinedFunction\PreDefinedFunction\bin\Debug\net9.0\PreDefinedFunction.runtimeconfig.json
+D:\Apprenticeship_C#\PreDefinedFunction\PreDefinedFunction\bin\Debug\net9.0\PreDefinedFunction.dll
+D:\Apprenticeship_C#\PreDefinedFunction\PreDefinedFunction\bin\Debug\net9.0\PreDefinedFunction.pdb
+D:\Apprenticeship_C#\PreDefinedFunction\PreDefinedFunction\obj\Debug\net9.0\PreDefinedFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apprenticeship_C#\PreDefinedFunction\PreDefinedFunction\obj\Debug\net9.0\PreDefinedFunction.AssemblyInfoInputs.cache
+D:\Apprenticeship_C#\PreDefinedFunction\PreDefinedFunction\obj\Debug\net9.0\PreDefinedFunction.AssemblyInfo.cs
+D:\Apprenticeship_C#\PreDefinedFunction\PreDefinedFunction\obj\Debug\net9.0\PreDefinedFunction.csproj.CoreCompileInputs.cache
+D:\Apprenticeship_C#\PreDefinedFunction\PreDefinedFunction\obj\Debug\net9.0\PreDefinedFunction.sourcelink.json
+D:\Apprenticeship_C#\PreDefinedFunction\PreDefinedFunction\obj\Debug\net9.0\PreDefinedFunction.dll
+D:\Apprenticeship_C#\PreDefinedFunction\PreDefinedFunction\obj\Debug\net9.0\refint\PreDefinedFunction.dll
+D:\Apprenticeship_C#\PreDefinedFunction\PreDefinedFunction\obj\Debug\net9.0\PreDefinedFunction.pdb
+D:\Apprenticeship_C#\PreDefinedFunction\PreDefinedFunction\obj\Debug\net9.0\PreDefinedFunction.genruntimeconfig.cache
+D:\Apprenticeship_C#\PreDefinedFunction\PreDefinedFunction\obj\Debug\net9.0\ref\PreDefinedFunction.dll
