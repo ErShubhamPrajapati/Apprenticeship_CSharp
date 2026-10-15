@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Apprenticeship_C#\\OPP_In_C#_(CLASS, OBJECT \u0026 METHOD OVERLOADING )\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB96A80F-C527-4CB8-A639-9B2A2F97DB74}|OPP_In_C#_(CLASS, OBJECT \u0026 METHOD OVERLOADING )\\OPP_In_C#_(CLASS, OBJECT \u0026 METHOD OVERLOADING ).csproj|d:\\apprenticeship_c#\\opp_in_c#_(class, object \u0026 method overloading )\\opp_in_c#_(class, object \u0026 method overloading )\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB96A80F-C527-4CB8-A639-9B2A2F97DB74}|OPP_In_C#_(CLASS, OBJECT \u0026 METHOD OVERLOADING )\\OPP_In_C#_(CLASS, OBJECT \u0026 METHOD OVERLOADING ).csproj|solutionrelative:opp_in_c#_(class, object \u0026 method overloading )\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Apprenticeship_C#\\OPP_In_C#_(CLASS, OBJECT \u0026 METHOD OVERLOADING )\\OPP_In_C#_(CLASS, OBJECT \u0026 METHOD OVERLOADING )\\Program.cs",
+              "RelativeDocumentMoniker": "OPP_In_C#_(CLASS, OBJECT \u0026 METHOD OVERLOADING )\\Program.cs",
+              "ToolTip": "D:\\Apprenticeship_C#\\OPP_In_C#_(CLASS, OBJECT \u0026 METHOD OVERLOADING )\\OPP_In_C#_(CLASS, OBJECT \u0026 METHOD OVERLOADING )\\Program.cs",
+              "RelativeToolTip": "OPP_In_C#_(CLASS, OBJECT \u0026 METHOD OVERLOADING )\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T13:43:52.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

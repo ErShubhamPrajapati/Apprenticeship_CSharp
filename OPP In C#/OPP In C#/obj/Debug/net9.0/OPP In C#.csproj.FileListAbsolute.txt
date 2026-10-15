@@ -1,0 +1,15 @@
+D:\Apprenticeship_C#\OPP In C#\OPP In C#\bin\Debug\net9.0\OPP In C#.exe
+D:\Apprenticeship_C#\OPP In C#\OPP In C#\bin\Debug\net9.0\OPP In C#.deps.json
+D:\Apprenticeship_C#\OPP In C#\OPP In C#\bin\Debug\net9.0\OPP In C#.runtimeconfig.json
+D:\Apprenticeship_C#\OPP In C#\OPP In C#\bin\Debug\net9.0\OPP In C#.dll
+D:\Apprenticeship_C#\OPP In C#\OPP In C#\bin\Debug\net9.0\OPP In C#.pdb
+D:\Apprenticeship_C#\OPP In C#\OPP In C#\obj\Debug\net9.0\OPP In C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apprenticeship_C#\OPP In C#\OPP In C#\obj\Debug\net9.0\OPP In C#.AssemblyInfoInputs.cache
+D:\Apprenticeship_C#\OPP In C#\OPP In C#\obj\Debug\net9.0\OPP In C#.AssemblyInfo.cs
+D:\Apprenticeship_C#\OPP In C#\OPP In C#\obj\Debug\net9.0\OPP In C#.csproj.CoreCompileInputs.cache
+D:\Apprenticeship_C#\OPP In C#\OPP In C#\obj\Debug\net9.0\OPP In C#.sourcelink.json
+D:\Apprenticeship_C#\OPP In C#\OPP In C#\obj\Debug\net9.0\OPP In C#.dll
+D:\Apprenticeship_C#\OPP In C#\OPP In C#\obj\Debug\net9.0\refint\OPP In C#.dll
+D:\Apprenticeship_C#\OPP In C#\OPP In C#\obj\Debug\net9.0\OPP In C#.pdb
+D:\Apprenticeship_C#\OPP In C#\OPP In C#\obj\Debug\net9.0\OPP In C#.genruntimeconfig.cache
+D:\Apprenticeship_C#\OPP In C#\OPP In C#\obj\Debug\net9.0\ref\OPP In C#.dll

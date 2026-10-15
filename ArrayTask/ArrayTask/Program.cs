@@ -385,18 +385,89 @@ namespace ArrayTask
             //}
 
             //30.Take numbers from the user and print them in reverse order.
-            Console.WriteLine("Take the 5 student marks");
-            int m1 = Convert.ToInt32(Console.ReadLine());
-            int m2 = Convert.ToInt32(Console.ReadLine());
-            int m3 = Convert.ToInt32(Console.ReadLine());
-            int m4 = Convert.ToInt32(Console.ReadLine());
-            int m5 = Convert.ToInt32(Console.ReadLine());
-            int[] arr = { m1, m2, m3, m4, m5 };
-            Console.WriteLine("Reverse Order..");
-            for(int i=arr.Length-1;i>=0;i--)
+            //Console.WriteLine("Take the 5 student marks");
+            //int m1 = Convert.ToInt32(Console.ReadLine());
+            //int m2 = Convert.ToInt32(Console.ReadLine());
+            //int m3 = Convert.ToInt32(Console.ReadLine());
+            //int m4 = Convert.ToInt32(Console.ReadLine());
+            //int m5 = Convert.ToInt32(Console.ReadLine());
+            //int[] arr = { m1, m2, m3, m4, m5 };
+            //Console.WriteLine("Reverse Order..");
+            //for(int i=arr.Length-1;i>=0;i--)
+            //{
+            //    Console.WriteLine(arr[i]);
+            //}
+
+
+            //wap to input a 3*3 matrix and check is it identiy matrix or not
+
+            //int[,] mat=new int[3,3];
+            //Console.WriteLine("Enter all element of 3*3 matrix row wise..");
+            //for(int i = 0; i < 3; i++)
+            //{
+            //    Console.WriteLine("Enter element of row number = "+(i+1));
+            //    for(int j= 0; j < 3; j++)
+            //    {
+            //        mat[i, j] = Convert.ToInt32(Console.ReadLine());
+
+            //    }
+            //}
+            ////every check element
+            //bool flag = true;
+            //for (int i = 0; i < 3; i++) 
+            //{
+            //  for(int j= 0;j < 3; j++)
+            //    {
+            //        if(i==j && mat[i, j] != 1)
+            //        {
+            //            flag= false;
+            //            break;
+            //        }
+            //        else if (i != j && mat[i, j] != 0)
+            //        {
+            //            flag = false;
+            //            break;  
+            //        }
+            //    }
+            //}
+            //if (flag)
+            //{
+            //    Console.WriteLine("Matrix is an identity matrix");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Matrix is not an identity matrix");
+
+            //}
+
+
+            int[,] mat = new int[3, 3];
+            Console.WriteLine("Enter Element 3*3 matrix..");
+            for(int i = 0; i < 3; i++)
             {
-                Console.WriteLine(arr[i]);
+                Console.WriteLine("Enter 3 element of row number = "+(i+1));
+                for(int j=0; j < 3; j++)
+                {
+                    mat[i, j] = Convert.ToInt32(Console.ReadLine());
+                }
+                int z = 0, nz = 0;
+                foreach(int e in mat)
+                {
+                    if (e == 0)
+                        z++;
+                    else
+                        nz++;
+                }
+                if (z > nz)
+                {
+                    Console.WriteLine("This is sparse matrix");
+                }
+                else
+                {
+                    Console.WriteLine("This is not sparse matrix");
+                }
             }
+
         }
     }
 }

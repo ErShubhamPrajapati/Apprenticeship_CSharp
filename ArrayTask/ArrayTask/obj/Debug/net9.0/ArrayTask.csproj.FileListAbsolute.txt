@@ -12,3 +12,4 @@ D:\Apprenticeship_C#\ArrayTask\ArrayTask\obj\Debug\net9.0\refint\ArrayTask.dll
 D:\Apprenticeship_C#\ArrayTask\ArrayTask\obj\Debug\net9.0\ArrayTask.pdb
 D:\Apprenticeship_C#\ArrayTask\ArrayTask\obj\Debug\net9.0\ArrayTask.genruntimeconfig.cache
 D:\Apprenticeship_C#\ArrayTask\ArrayTask\obj\Debug\net9.0\ref\ArrayTask.dll
+D:\Apprenticeship_C#\ArrayTask\ArrayTask\obj\Debug\net9.0\ArrayTask.sourcelink.json

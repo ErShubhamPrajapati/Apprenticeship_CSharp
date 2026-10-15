@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Apprenticeship_C#\\WebApplication2\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF6B37E-1109-43DF-AFE2-238DF428137C}|WebApplication2\\WebApplication2.csproj|d:\\apprenticeship_c#\\webapplication2\\webapplication2\\webapplication2\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EF6B37E-1109-43DF-AFE2-238DF428137C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Apprenticeship_C#\\WebApplication2\\WebApplication2\\WebApplication2\\Views\\Teacher\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Teacher\\Index.cshtml",
+              "ToolTip": "D:\\Apprenticeship_C#\\WebApplication2\\WebApplication2\\WebApplication2\\Views\\Teacher\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Teacher\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-15T09:57:28.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
